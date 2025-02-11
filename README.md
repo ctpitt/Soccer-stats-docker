@@ -1,4 +1,6 @@
 # Containerized Soccer Stats App
+![image](https://github.com/user-attachments/assets/52d1f117-a858-466e-bc36-327bfffa7265)
+
 
 ## Project Overview
 Part of the 30 Days DevOps Challenge - Week 2: Containers & Microservices. This project implements a containerized soccer statistics application using Docker, Python, and the Football API.
